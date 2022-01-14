@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=WaqasAzamKml)
+
+<a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api?username=WaqasAzamKml&show_icons=true&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff&icon_color=ffc500"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAzamKml&layout=default&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff"/></a>
+
 <!--
 **WaqasAzamKml/WaqasAzamKml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
