@@ -1,13 +1,9 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/DozyGeek">Muhammad Waqas</a> - aka DozyGeek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=WaqasAzamKml&style=flat-square)
-
-<p align="center">
-  
-  <a href="https://twitter.com/dozygeek"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DozyGeek?logo=Twitter&style=flat-square"/></a>
-  <a href="https://github.com/WaqasAzamKml"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WaqasAzamKml?logo=Github&style=flat-square"/></a>
-  <a href="https://github.com/WaqasAzamKml" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/WaqasAzamKml/WaqasAzamKml?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
+<a href="https://twitter.com/dozygeek"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DozyGeek?logo=Twitter&style=flat-square"/></a>
+<a href="https://github.com/WaqasAzamKml"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WaqasAzamKml?logo=Github&style=flat-square"/></a>
+<a href="https://github.com/WaqasAzamKml" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/WaqasAzamKml/WaqasAzamKml?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 
 <p align="center">
   <a href="#">
