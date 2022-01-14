@@ -26,7 +26,7 @@
 <br/>
 
 <p align="center">
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=WaqasAzamKml&row=1&theme=discord"></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=WaqasAzamKml&row=1&theme=darcula"></a>
 </p>
 
 
