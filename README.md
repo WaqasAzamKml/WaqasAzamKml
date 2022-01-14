@@ -4,7 +4,7 @@
   <a href="https://twitter.com/dozygeek"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DozyGeek?logo=Twitter&style=flat-square"/></a>
   <a href="https://github.com/WaqasAzamKml"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WaqasAzamKml?logo=Github&style=flat-square"/></a>
   <a href="https://github.com/WaqasAzamKml" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/WaqasAzamKml/WaqasAzamKml?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-  ![](https://komarev.com/ghpvc/?username=WaqasAzamKml)
+![](https://komarev.com/ghpvc/?username=WaqasAzamKml)
 </p>
 
 <p align="center">
