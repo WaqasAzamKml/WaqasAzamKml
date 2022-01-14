@@ -33,14 +33,14 @@
  <h2 align="center"> 📊 GitHub Profile Stats </h2>
   <br/>
   <p align="center">
-<a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api?username=WaqasAzamKml&show_icons=true&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff&icon_color=ffc500"/></a>
+<a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api?username=WaqasAzamKml&show_icons=true&theme=darcula&count_private=true"/></a>
   </p>
   
   <h2 align="center">💻 Most used languages</h2>
 
   <br/>
   <p align="center">
-  <a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAzamKml&layout=default&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff"/></a>
+  <a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAzamKml&layout=compact&theme=darcula"/></a>
   </p>
 
 <!--
